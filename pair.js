@@ -31,7 +31,7 @@ const {
     proto,
     prepareWAMessageMedia,
     generateWAMessageFromContent
-} = require('@whiskeysockets/baileys');
+} = require('baileys');
 //=======================================
 const config = {
     AUTO_VIEW_STATUS: 'true',
